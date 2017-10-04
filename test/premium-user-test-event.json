@@ -1,0 +1,109 @@
+{
+  "Records": [
+    {
+      "cf": {
+        "config": {
+          "distributionId": "E2PJ3I76NZEXXX"
+        },
+        "request": {
+          "clientIp": "54.240.196.185",
+          "headers": {
+            "accept-encoding": [
+              {
+                "key": "Accept-Encoding",
+                "value": "gzip"
+              }
+            ],
+            "cache-control": [
+              {
+                "key": "Cache-Control",
+                "value": "no-cache, max-age=0, cf-no-cache"
+              }
+            ],
+            "cloudfront-is-desktop-viewer": [
+              {
+                "key": "CloudFront-Is-Desktop-Viewer",
+                "value": "true"
+              }
+            ],
+            "cloudfront-is-mobile-viewer": [
+              {
+                "key": "CloudFront-Is-Mobile-Viewer",
+                "value": "false"
+              }
+            ],
+            "cloudfront-is-smarttv-viewer": [
+              {
+                "key": "CloudFront-Is-SmartTV-Viewer",
+                "value": "false"
+              }
+            ],
+            "cloudfront-is-tablet-viewer": [
+              {
+                "key": "CloudFront-Is-Tablet-Viewer",
+                "value": "false"
+              }
+            ],
+            "cloudfront-viewer-country": [
+              {
+                "key": "CloudFront-Viewer-Country",
+                "value": "US"
+              }
+            ],
+            "host": [
+              {
+                "key": "Host",
+                "value": "d170se51itnxxx.cloudfront.net:80"
+              }
+            ],
+            "upgrade-insecure-requests": [
+              {
+                "key": "Upgrade-Insecure-Requests",
+                "value": "1"
+              }
+            ],
+            "user-agent": [
+              {
+                "key": "User-Agent",
+                "value": "Amazon CloudFront"
+              }
+            ],
+            "via": [
+              {
+                "key": "Via",
+                "value": "1.1 e1fff2dee56e3b55796cc594a92413c0.cloudfront.net (CloudFront)"
+              }
+            ],
+            "x-clima-edge-debug": [
+              {
+                "key": "x-clima-edge-debug",
+                "value": "False"
+              }
+            ],
+            "x-forwarded-for": [
+              {
+                "key": "X-Forwarded-For",
+                "value": "54.240.196.185"
+              }
+            ],
+            "x-imforwards": [
+              {
+                "key": "X-IMForwards",
+                "value": "20"
+              }
+            ],
+            "cookie": [
+              {
+                "key": "Cookie",
+                "value": "x-lambda-edge-premium-user=w9h4uRpLlx24w4LqznqBo5oR7dh3qjUFlWrLZ3CqCeM="
+              }
+            ]
+          },
+          "method": "GET",
+          "querystring": "",
+          "uri": "/api"
+        }
+      }
+    }
+  ]
+}
